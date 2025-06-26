@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item1practice.telescopingconstructor;
+package effectivejava.chapter2.item2practice.telescopingconstructor;
 
 
 public class Car {
